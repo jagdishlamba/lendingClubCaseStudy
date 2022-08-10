@@ -11,19 +11,19 @@
 
 
 ## General Information
-    ### Problem Statement<br>
-        • The largest online loan marketplace wants to perform better portfolio and risk assessment.<br>
-        • Understand the driving factors behind loan default, i.e., the reasons which are strong indicators of default.<br>
-        • Reduce such loans thereby cutting down the amount of credit loss.<br>
+### Problem Statement<br>
+    • The largest online loan marketplace wants to perform better portfolio and risk assessment.<br>
+    • Understand the driving factors behind loan default, i.e., the reasons which are strong indicators of default.<br>
+    • Reduce such loans thereby cutting down the amount of credit loss.<br>
 
-    ### Analysis Approach<br>
-        • Understand the different attributes of the applicants. <br>
-        • Understand the different attributes explaining the loan default. <br>
-        • Perform univariate analysis to perform data cleansing.<br>
-        • Perform bivariate analysis to by combining attributes of applicants and attributes of loan default to draw conclusions.<br>
+### Analysis Approach<br>
+    • Understand the different attributes of the applicants. <br>
+    • Understand the different attributes explaining the loan default. <br>
+    • Perform univariate analysis to perform data cleansing.<br>
+    • Perform bivariate analysis to by combining attributes of applicants and attributes of loan default to draw conclusions.<br>
 
-    ### Dataset used<br>
-        • Loan data of company for all loans issued through the time period 2007 t0 2011.<br>
+### Dataset used<br>
+    • Loan data of company for all loans issued through the time period 2007 t0 2011.<br>
 
 
 
@@ -52,7 +52,7 @@
 
 
 ## Contact
-- Created by [jagdishlamba](@jagdishlamba) and [srutha](@srutha) - feel free to contact us!
+- Created by [jagdishlamba](https://github.com/jagdishlamba) and [srutha](https://github.com/srutha) - feel free to contact us!
 
 
 ## License
