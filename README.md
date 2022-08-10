@@ -1,7 +1,7 @@
 # Lending Club Case Study
-> Generally there is a business problem with lending company that how to select right customers to give loan. There are two situations:
- 1. If there is any mistake in choosing the right one, there might be loss of business or
- 2. If there is any wrong person selected, loss of money may be there.
+- Generally there is a business problem with lending company that how to select right customers to give loan. There are two situations:
+    1. If there is any mistake in choosing the right one, there might be loss of business or
+    2. If there is any wrong person selected, loss of money may be there.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,19 +11,19 @@
 
 
 ## General Information
-# Problem Statement
-    • The largest online loan marketplace wants to perform better portfolio and risk assessment.<br>
-    • Understand the driving factors behind loan default, i.e., the reasons which are strong indicators of default.<br>
-    • Reduce such loans thereby cutting down the amount of credit loss.<br>
+    ### Problem Statement<br>
+        • The largest online loan marketplace wants to perform better portfolio and risk assessment.<br>
+        • Understand the driving factors behind loan default, i.e., the reasons which are strong indicators of default.<br>
+        • Reduce such loans thereby cutting down the amount of credit loss.<br>
 
-# Analysis Approach
-    • Understand the different attributes of the applicants. <br>
-    • Understand the different attributes explaining the loan default. <br>
-    • Perform univariate analysis to perform data cleansing.<br>
-    • Perform bivariate analysis to by combining attributes of applicants and attributes of loan default to draw conclusions.<br>
+    ### Analysis Approach<br>
+        • Understand the different attributes of the applicants. <br>
+        • Understand the different attributes explaining the loan default. <br>
+        • Perform univariate analysis to perform data cleansing.<br>
+        • Perform bivariate analysis to by combining attributes of applicants and attributes of loan default to draw conclusions.<br>
 
-# Dataset used
-    • Loan data of company for all loans issued through the time period 2007 t0 2011.
+    ### Dataset used<br>
+        • Loan data of company for all loans issued through the time period 2007 t0 2011.<br>
 
 
 
