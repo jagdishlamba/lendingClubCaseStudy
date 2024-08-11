@@ -47,7 +47,6 @@
 
 
 ## Acknowledgements
-- This project is inspired by EPGPML & AI by Upgrad.
 - This project is based on [this tutorial](https://www.youtube.com/watch?v=qphm46Rzyjo).
 
 
